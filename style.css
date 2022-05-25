@@ -19,3 +19,46 @@ li, h3 {
 h1, h3, li {
     text-align: center;
 }
+
+footer {
+    position: absolute;
+    bottom: 25px;
+    width: 50%;
+   
+
+}
+
+.makeitsmaller {
+    width:50px;
+    height: 50px;
+}
+
+#smoky {
+    text-shadow: 3px 3px 30px gray;
+}
+
+#box {
+    box-shadow: 5px 5px 25px blue;
+}
+
+#giantfont {
+    font-size: xx-large;
+}
+
+div .makeitsmaller {
+    box-shadow: 4px 4px 25px orange;
+}
+
+main .makeitsmaller {
+    text-shadow: 2px 3px 30px black;
+}
+
+h2+p+ul {
+
+    padding: 10px 25px 10px 25px;
+}
+
+header+footer {
+
+    
+}
