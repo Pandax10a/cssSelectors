@@ -1,0 +1,17 @@
+ul>li {
+    padding: 25px 15px 15px 15px;
+    max-width: 200px;
+    box-shadow: 5px 5px 20px purple;
+}
+section>details {
+    text-shadow: 2px 2px 20px olivedrab;
+}
+
+
+h1, h2, h3 {
+    font-stretch: extra-expanded;
+}
+
+li, h3 {
+    background-color: blue;
+}
