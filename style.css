@@ -62,3 +62,21 @@ header+footer {
 
     
 }
+
+img:hover {
+    height: 200px;
+    width: 200px;
+}
+iframe:hover {
+    height: 400px;
+    width: 400px;
+
+}
+
+h2:active {
+    font-size: 5px;
+}
+
+p:active {
+    text-align: right;
+}
