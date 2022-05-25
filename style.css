@@ -13,5 +13,9 @@ h1, h2, h3 {
 }
 
 li, h3 {
-    background-color: blue;
+    background-color: rgb(159, 159, 163);
+}
+
+h1, h3 {
+    text-align: center;
 }
