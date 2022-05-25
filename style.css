@@ -1,6 +1,6 @@
 ul>li {
     padding: 25px 15px 15px 15px;
-    max-width: 200px;
+    max-width: 100px;
     box-shadow: 5px 5px 20px purple;
 }
 section>details {
@@ -16,6 +16,6 @@ li, h3 {
     background-color: rgb(159, 159, 163);
 }
 
-h1, h3 {
+h1, h3, li {
     text-align: center;
 }
